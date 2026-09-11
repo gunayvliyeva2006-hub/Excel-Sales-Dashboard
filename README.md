@@ -15,4 +15,4 @@ This project presents a sales analysis dashboard created using Microsoft Excel. 
 
 ## Dashboard Preview
 
-![Dashboard](sales-dashboard.jpeg)
+![Dashboard](sales-dashboard.png)
